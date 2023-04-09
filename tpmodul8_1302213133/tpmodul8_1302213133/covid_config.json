@@ -1,0 +1,6 @@
+{
+  "satuan suhu": "CONFIG 1",
+  "batas_hari_demam": "CONFIG 2",
+  "pesan_ditolak": "CONFIG 3",
+  "pesan_diterima": "CONFIG 4"
+}
